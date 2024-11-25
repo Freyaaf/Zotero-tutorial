@@ -1,0 +1,1 @@
+var contextHelpMap = [{"appname":"", "appid":"zotero", "path":"什么是Zotero.html"},{"appname":"", "appid":"windows_zotero", "path":"windows_zotero.html"},{"appname":"", "appid":"macos_zotero", "path":"macos_zotero.html"}];

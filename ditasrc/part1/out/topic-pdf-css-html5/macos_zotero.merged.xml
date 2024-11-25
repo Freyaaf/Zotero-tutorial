@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<?workdir /Users/apple/Desktop/Zotero下载安装及个性化设置/temp/topic-pdf-css-html5/Zotero下载安装及个性化设置?><?workdir-uri file:/Users/apple/Desktop/Zotero下载安装及个性化设置/temp/topic-pdf-css-html5/Zotero下载安装及个性化设置/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:css-param="http://www.oxygenxml.com/extensions/publishing/dita/css/params" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="macos_zotero" specializations="@props/deliveryTarget" xtrc="task:1;3:25" xtrf="file:/Users/apple/Desktop/Zotero下载安装及个性化设置/macos_zotero.dita" css-param:show-onpage-lbl="no" xml:lang="en">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">macOS如何下载安装Zotero</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zotero最初是基于Firefox浏览器的插件，现在可以基于桌面独立安装，支持多种常见操作系统，如Linux，iOS，macOS和Windows等。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">本节主要以Safari浏览器为例，介绍如何在macOS系统上下载安装Zotero。</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">进入Zotero官网<xref class="- topic/xref " format="html" href="https://www.zotero.org/" scope="external"/>。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">点击页面中部红色背景"Download"按钮，如下图所示：</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="" id="image_k1w_jtg_mdc" placement="inline" width="100"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在跳转的新页面中找到左方"Zotero 7 for Mac"模块，点击蓝底白字"Download"按钮，如图所示：<image class="- topic/image " href="" id="image_m4h_ztg_mdc" placement="inline" width="157"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在弹出的"你要允许'www.zotero.org'上的下载吗"对话框中选择"允许"，然后等待下载。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">下载完成后，双击Zotero的dmg文件，如图所示：<image class="- topic/image " href="" id="image_hvd_dwg_mdc" placement="inline" width="200"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在弹出框中将左侧的"Zotero"图标拖拽到右侧的"Drage Here to Install"里，然后等待Zotero拷贝到应用程序。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">双击应用程序中Zotero图标以打开软件，如图所示<image class="- topic/image " href="" id="image_izm_rwg_mdc" placement="inline" width="100"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">系统弹出对话框"'Zotero'是从互联网下载的App。您确定要打开它吗？"，请选择"打开"。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">当弹出"欢迎来到Zotero"页面时，表明已成功下载安装，此时官网会有如下提示：<image class="- topic/image " href="" id="image_nnq_gxg_mdc" placement="inline" width="300"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

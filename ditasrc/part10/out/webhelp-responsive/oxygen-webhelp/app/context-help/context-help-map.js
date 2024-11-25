@@ -1,0 +1,1 @@
+var contextHelpMap = [{"appname":"", "appid":"uninstall_user", "path":"uninstall_user.html"},{"appname":"", "appid":"task_jtr_gjj_mdc", "path":"zotero_uninstall.html"},{"appname":"", "appid":"task_wps_skj_mdc", "path":"plugin_uninstall.html"}];

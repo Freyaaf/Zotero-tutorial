@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/35461/Desktop/8.%20使用群组/group.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">使用群组</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">使用群组</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="introduction"><resourceid appid="introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">使用Zotero群组</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">本节介绍Zotero群组功能及其优势。</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="create-group"><resourceid appid="create-group" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">创建群组</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">介绍创建Zotero群组的两种方式。</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="invite-and-join-group"><resourceid appid="invite-and-join-group" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">加入群组</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">介绍加入群组的三种方式，包括邀请他人加入自己的群组和申请加入其他群组。</shortdesc></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="introduction" oid="introduction" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">使用Zotero群组</ph></title>
+    <shortdesc class="- topic/shortdesc ">本节介绍Zotero群组功能及其优势。</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">在Zotero中，群组功能提供了一个强大的平台，使得多个用户能够共同工作在一个共享的文献库中，满足课题组协作和小组合作的需求。</p>
+        <ul class="- topic/ul ">
+            <li class="- topic/li ">实时协作：实现课题组内文献条目及其附件（包括笔记和PDF全文）的实时共享和同步。</li>
+            <li class="- topic/li ">跨平台同步：支持桌面端、移动端和网页端，确保团队成员随时随地访问最新文献。</li>
+            <li class="- topic/li ">灵活的文献管理：允许用户在个人文库和群组文库之间双向复制或移动文献条目。</li>
+            <li class="- topic/li ">无成员限制：不限制群组成员数量，适应不同规模的团队需求。</li>
+            <li class="- topic/li ">增强团队效率：配合Chartero插件，实时查看成员对文献的阅读进度，提升团队协作效率。</li>
+        </ul>
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="create-group" oid="create-group" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">创建群组</ph></title>
+    <shortdesc class="- topic/shortdesc ">介绍创建Zotero群组的两种方式。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">有两种方式创建Zotero群组，步骤分别如下：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在Zotero客户端中创建：</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ol class="- topic/ol ">
+                        <li class="- topic/li ">打开Zotero客户端，点击如下按钮：<image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/create%20group1.png" id="unique_2_Connect_42_image_zbm_c4h_mdc" nd:nd-id="image_zbm_c4h_mdc" placement="break" width="300"/></li>
+                    </ol>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在Zotero群组页面创建：</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ol class="- topic/ol ">
+                        <li class="- topic/li ">访问Zotero群组页面，点击<uicontrol class="+ topic/ph ui-d/uicontrol ">Create a New Group</uicontrol>按钮。<image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/create%20a%20new%20group.png" id="unique_2_Connect_42_image_ckd_44h_mdc" nd:nd-id="image_ckd_44h_mdc" placement="break" width="300"/></li>
+                        <li class="- topic/li ">为群组输入一个名字，选择群组的类型，并依次进行群组设置，即可完成创建。<image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/group%20name.png" id="unique_2_Connect_42_image_wn4_q4h_mdc" nd:nd-id="image_wn4_q4h_mdc" placement="break" width="400"/><image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/group%20settings.png" id="unique_2_Connect_42_image_ubj_x4h_mdc" nd:nd-id="image_ubj_x4h_mdc" placement="break" width="300"/></li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="invite-and-join-group" oid="invite-and-join-group" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">加入群组</ph></title>
+    <shortdesc class="- topic/shortdesc ">介绍加入群组的三种方式，包括邀请他人加入自己的群组和申请加入其他群组。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">可以通过管理员邀请、官网群组搜索和群组链接三种方式加入群组。</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">通过管理员邀请加入群组：</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">群主和管理员可以邀请新成员。进入Zotero群组页面，点击群组名称下方的<uicontrol class="+ topic/ph ui-d/uicontrol ">Members
+                            Settings</uicontrol>，然后点击页面左下角的<uicontrol class="+ topic/ph ui-d/uicontrol ">Send More
+                            Invitations</uicontrol>。在邀请成员界面的方框内，输入被邀请人的Zotero用户名或注册Zotero时所用的电子邮箱，点击<uicontrol class="+ topic/ph ui-d/uicontrol ">Invite
+                            Members</uicontrol>完成邀请。<image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/管理员邀请1.jpg" id="unique_3_Connect_42_image_vx4_wsh_mdc" nd:nd-id="image_vx4_wsh_mdc" placement="break" width="400"/><image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/管理员邀请2.png" id="unique_3_Connect_42_image_mfb_ysh_mdc" nd:nd-id="image_mfb_ysh_mdc" placement="break" width="200"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">通过官网群组搜索加入群组：</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">在Zotero官网群组搜索页面，通过群组名称搜索目标群组。在搜索结果页面中点击目标群组名称，进入该群组的主页，点击右侧的<uicontrol class="+ topic/ph ui-d/uicontrol ">Join</uicontrol>申请加入。Public
+                            Open群组点击<uicontrol class="+ topic/ph ui-d/uicontrol ">Join</uicontrol>后即可加入，Public
+                            Closed群组需要等管理员或群主通过申请。<image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/官网群组搜索1.png" id="unique_3_Connect_42_image_cbf_kth_mdc" nd:nd-id="image_cbf_kth_mdc" placement="break" width="300"/><image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/官网群组搜索2.png" id="unique_3_Connect_42_image_jrv_lth_mdc" nd:nd-id="image_jrv_lth_mdc" placement="break" width="300"/><image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/官网群组搜索3.png" id="unique_3_Connect_42_image_hq3_4th_mdc" nd:nd-id="image_hq3_4th_mdc" placement="break" width="300"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">通过群组链接加入群组：</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">群组成员可以分享群组链接，他人打开链接即可申请加入。<image class="- topic/image " href="file:/C:/Users/35461/Desktop/8.%20使用群组/8-image/群链接.png" id="unique_3_Connect_42_image_u3h_sth_mdc" nd:nd-id="image_u3h_sth_mdc" placement="break" width="300"/></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task></map>

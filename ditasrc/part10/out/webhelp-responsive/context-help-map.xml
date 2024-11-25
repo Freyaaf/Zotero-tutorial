@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="uninstall_user" path="uninstall_user.html"/>
+   <appContext helpID="task_jtr_gjj_mdc" path="zotero_uninstall.html"/>
+   <appContext helpID="task_wps_skj_mdc" path="plugin_uninstall.html"/>
+</map>

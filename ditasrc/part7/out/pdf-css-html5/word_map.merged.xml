@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/E:/Oxygen%20XML%20Editor%2025/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/35461/Desktop/7.%20在word中使用Zotero引用文献/word_map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">在Word 中使用 Zotero 引用文献</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">在Word 中使用 Zotero 引用文献</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="zotero-overview"><resourceid appid="zotero-overview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Zotero for MS Office Word插件</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zotero for MS Office Word插件允许用户在Microsoft Word文档中直接插入和管理文献引用，以及创建参考文献表。</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="insert-references"><resourceid appid="insert-references" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">插入参考文献</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">介绍如何在Word中通过Zotero插入参考文献。</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="edit-delete-citations"><resourceid appid="edit-delete-citations" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">编辑或删除引注</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">在Word文档中编辑或删除已插入的引注。</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="create-update-bibliography"><resourceid appid="create-update-bibliography" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">创建和更新参考文献表</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">在Word文档中创建和更新参考文献表。</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="switch-citations-style"><resourceid appid="switch-citations-style" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">切换引用样式</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">介绍如何在Word文档中切换不同的引用样式。</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="troubleshooting-zotero-word"><resourceid appid="troubleshooting-zotero-word" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">故障排除</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">解决在使用Zotero Word插件时遇到的常见问题。</shortdesc></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="zotero-overview" oid="zotero-overview" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zotero for MS Office Word插件</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zotero for MS Office Word插件允许用户在Microsoft Word文档中直接插入和管理文献引用，以及创建参考文献表。</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">一般情况下，Zotero 安装时会安装 Zotero Word 插件，其会在 Microsoft Word 里添加一个 Zotero
+                选项卡，提供了添加/编辑引注、添加/编辑参考文献表、添加笔记、文档首选项、刷新和取消链接引注等功能。如下图所示：<image class="- topic/image " href="file:/C:/Users/35461/Desktop/7.%20在word中使用Zotero引用文献/7-image/Zotero%20Word%20插件选项卡.png" id="unique_1_Connect_42_image_f5j_db3_mdc" nd:nd-id="image_f5j_db3_mdc" placement="break" width="300"/></p>
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="insert-references" oid="insert-references" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">插入参考文献</ph></title>
+    <shortdesc class="- topic/shortdesc ">介绍如何在Word中通过Zotero插入参考文献。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">在Word中通过Zotero插入参考文献的步骤如下：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">打开Zotero和Word，同时加载Word文档。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在Word中将光标放置在需要插入引用的位置。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">点击<uicontrol class="+ topic/ph ui-d/uicontrol ">Add/Edit Citation</uicontrol>按钮。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在一个未添加过引文的文档中，按下按钮将先弹出一个「文档首选项」窗口以选择一个 CSL 样式，之后再点<uicontrol class="+ topic/ph ui-d/uicontrol ">Add/Edit
+                        Citation</uicontrol>将直接显示「引注对话框」，这个对话框可以从 Zotero
+                        库中选择条目，并创建引注。在对话框中键入标题的一部分、一个或多个作者的姓氏和/或年份。匹配项将立即显示在对话框下方。如下图所示：<image class="- topic/image " href="file:/C:/Users/35461/Desktop/7.%20在word中使用Zotero引用文献/7-image/引用文献.png" id="unique_2_Connect_42_image_awr_sr3_mdc" nd:nd-id="image_awr_sr3_mdc" placement="break" width="300"/></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">单击某条目选择这个条目，或用键盘「↑↓」+「Enter」键来选择条目。选中的条目以气泡形状显示在对话框中。完成选择后，再次按「Enter/Return」键以插入引注并关闭引注对话框。如下图所示：<image class="- topic/image " href="file:/C:/Users/35461/Desktop/7.%20在word中使用Zotero引用文献/7-image/引文对话框png.png" id="unique_2_Connect_42_image_ezb_ms3_mdc" nd:nd-id="image_ezb_ms3_mdc" placement="break" width="400"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="edit-delete-citations" oid="edit-delete-citations" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">编辑或删除引注</ph></title>
+    <shortdesc class="- topic/shortdesc ">在Word文档中编辑或删除已插入的引注。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">对已插入的引注进行编辑或删除，可采取以下步骤：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">编辑引注：</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">在已插入的引注中增加/删除条目，或者修改引注的信息，可以将光标定位在引注内（此时引注区域会出现灰色阴影），然后再单击<uicontrol class="+ topic/ph ui-d/uicontrol ">Add/Edit
+                            Citation</uicontrol>按钮开始编辑引注。如下图所示：<image class="- topic/image " href="file:/C:/Users/35461/Desktop/7.%20在word中使用Zotero引用文献/7-image/编辑引注.jpg" id="unique_3_Connect_42_image_jxm_153_mdc" nd:nd-id="image_jxm_153_mdc" placement="break" width="300"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">删除引注：</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">选中引注并按<uicontrol class="+ topic/ph ui-d/uicontrol ">Delete</uicontrol>键或右键选择<uicontrol class="+ topic/ph ui-d/uicontrol ">删除</uicontrol>。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="create-update-bibliography" oid="create-update-bibliography" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">创建和更新参考文献表</ph></title>
+    <shortdesc class="- topic/shortdesc ">在Word文档中创建和更新参考文献表。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">使用Zotero插件可以在Word中创建和更新参考文献表，步骤如下：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">创建参考文献表：</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">点击<uicontrol class="+ topic/ph ui-d/uicontrol ">Add/Edit
+                            Bibliography</uicontrol>按钮，在文档中适当的位置插入参考文献表。如下图所示：<image class="- topic/image " href="file:/C:/Users/35461/Desktop/7.%20在word中使用Zotero引用文献/7-image/创建参考文献表.png" id="unique_4_Connect_42_image_usx_3v3_mdc" nd:nd-id="image_usx_3v3_mdc" placement="break" width="300"/></p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">更新参考文献表：</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">对文档中的引注进行更改后，点击<uicontrol class="+ topic/ph ui-d/uicontrol ">刷新</uicontrol>按钮更新参考文献表。如下图所示：<image class="- topic/image " href="file:/C:/Users/35461/Desktop/7.%20在word中使用Zotero引用文献/7-image/更新参考文献表.png" id="unique_4_Connect_42_image_d3y_jv3_mdc" nd:nd-id="image_d3y_jv3_mdc" placement="break" width="300"/></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="switch-citations-style" oid="switch-citations-style" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">切换引用样式</ph></title>
+    <shortdesc class="- topic/shortdesc ">介绍如何在Word文档中切换不同的引用样式。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">使用Zotero插件在Word文档中切换引用样式的步骤如下：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">点击<uicontrol class="+ topic/ph ui-d/uicontrol ">Document Preferences</uicontrol>按钮。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">在弹出的窗口中，选择新的CSL样式并点击<uicontrol class="+ topic/ph ui-d/uicontrol ">OK</uicontrol>。如下图所示：<image class="- topic/image " href="file:/C:/Users/35461/Desktop/7.%20在word中使用Zotero引用文献/7-image/切换引用样式.png" id="unique_5_Connect_42_image_og3_dw3_mdc" nd:nd-id="image_og3_dw3_mdc" placement="break" width="300"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="troubleshooting-zotero-word" oid="troubleshooting-zotero-word" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">故障排除</ph></title>
+    <shortdesc class="- topic/shortdesc ">解决在使用Zotero Word插件时遇到的常见问题。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">如果遇到Zotero插件未显示、引注未正确更新等问题，请按照以下步骤操作：</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">检查插件安装。</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">确保Zotero插件已正确安装，且Word插件已启用。</p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">检查网络连接。</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">确保网络连接正常，以便Zotero可以同步库中的更改。</p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">重启Word和Zotero。</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">尝试重启Word和Zotero，重新建立连接。</p>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">寻求帮助。</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">访问Zotero官方论坛或中文社区寻求帮助。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task></map>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="zotero">
+    <title>3.2 如何将Zotero界面语言从英文更改为中文</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>如果你需要将Zotero界面从英文切换为简体中文，请按照以下步骤：</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在Zotero中，依次点击"Edit"（编辑）>"Settings"（设置）>"General" （常规）。</cmd>
+            </step>
+            <step>
+                <cmd>在"Appearance and Language"（外观和语言）部分，点击"Language"（语言）后面的下拉菜单。 </cmd>
+            </step>
+            <step>
+                <cmd>从列表中选择"中文（简体）"。</cmd>
+            </step>
+            <step>
+                <cmd>系统会提示"Zotero must be restarted for the change to take
+                    effect"（Zotero需要重启以使更改生效）。 </cmd>
+            </step>
+            <step>
+                <cmd>点击“Restart now”（立即重启），Zotero将重启。</cmd>
+            </step>
+            <step>
+                <cmd>重启后，Zotero界面将切换为简体中文。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

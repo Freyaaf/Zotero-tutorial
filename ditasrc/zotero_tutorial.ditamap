@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Zotero tutorial</title>
+    <topicref href="part1/Zotero%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.ditamap" format="ditamap"/>
+    <topicref href="part2/plugin_map.ditamap" format="ditamap"/>
+    <topicref href="part3/Zotero%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE.ditamap"
+        format="ditamap"/>
+    <topicref href="part4/part4_import_references.ditamap" format="ditamap"/>
+    <topicref href="part5/part5_notes_managements.ditamap" format="ditamap"/>
+    <topicref href="part6/all_tag_management.ditamap" format="ditamap"/>
+    <topicref href="part7/word_map.ditamap" format="ditamap"/>
+    <topicref href="part8/group.ditamap" format="ditamap"/>
+    <topicref href="part9/backup_and_restore.ditamap" format="ditamap"/>
+    <topicref href="part10/uninstall.ditamap" format="ditamap"/>
+</map>

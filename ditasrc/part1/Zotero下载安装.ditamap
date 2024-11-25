@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>1. 下载安装</title>
+    <topicref href="topic_download_and_install_zotero.dita">
+        <topicref href="%E4%BB%80%E4%B9%88%E6%98%AFZotero.dita"/>
+        <topicref href="windows_zotero.dita"/>
+        <topicref href="macos_zotero.dita"/>
+    </topicref>
+</map>
